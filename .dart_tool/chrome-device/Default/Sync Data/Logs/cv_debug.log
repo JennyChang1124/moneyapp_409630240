@@ -1,0 +1,22 @@
+{"logTime": "1221/092320", "correlationVector":"tzdTDCA/K7M3VKS1sdflj4.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1221/092321", "correlationVector":"V1Msujvc1bOEvgod04EhmW.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastAsia_000d", "server":"general0100001G"}}
+{"logTime": "1221/092323", "correlationVector":"V1Msujvc1bOEvgod04EhmW.2","action":"AAD.Mip.Unpack", "result":"Success", "context":MIP_CLOUD_COMMERCIAL:Success}
+{"logTime": "1221/092323", "correlationVector":"V1Msujvc1bOEvgod04EhmW.3","action":"AAD.GetKeyResponse", "result":"Success", "context":Keys=3.LastKeyStatus=Normal. 2022-09-12 12:55:10 +08.State=None. Tags: Current_encryption_keys_tag = 77+977+9WC0I77+9ZVHvv707Ve+/ve+/vTvvv73vv71V77+977+9ZDjvv73vv73vv70J77+977+9A++/vV/vv73vv70=, Updated_current_encryption_keys_tag = Empty}
+{"logTime": "1221/092323", "correlationVector":"V1Msujvc1bOEvgod04EhmW","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=V1Msujvc1bOEvgod04EhmW}
+{"logTime": "1221/092323", "correlationVector":"V1Msujvc1bOEvgod04EhmW.4","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 1 update(s). cV=V1Msujvc1bOEvgod04EhmW.0;server=general0100001G;cloudType=Multitenant;environment=Prod_EastAsia_000d}
+{"logTime": "1221/092323", "correlationVector":"6mEp1eEp5FhGV0BD/WoBEo","action":"Initial GetUpdates", "result":"", "context":Reason: NEW_CLIENT. cV=6mEp1eEp5FhGV0BD/WoBEo}
+{"logTime": "1221/092324", "correlationVector":"6mEp1eEp5FhGV0BD/WoBEo.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastAsia_000d", "server":"general0100000W"}}
+{"logTime": "1221/092324", "correlationVector":"6mEp1eEp5FhGV0BD/WoBEo.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 86 update(s). cV=6mEp1eEp5FhGV0BD/WoBEo.0;server=general0100000W;cloudType=Multitenant;environment=Prod_EastAsia_000d}
+{"logTime": "1221/092324", "correlationVector":"Emy+d5EIP7aX0hMbY34Y90","action":"Normal GetUpdate request", "result":"", "context":cV=Emy+d5EIP7aX0hMbY34Y90
+Nudged types: Device Info, User Consents
+Refresh requested types: Device Info, User Consents, Send Tab To Self, Encryption Keys}
+{"logTime": "1221/092324", "correlationVector":"Emy+d5EIP7aX0hMbY34Y90.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastAsia_000d", "server":"general01000025"}}
+{"logTime": "1221/092324", "correlationVector":"Emy+d5EIP7aX0hMbY34Y90.2","action":"GetUpdates Response", "result":"SYNCER_OK", "context":Received 0 update(s). cV=Emy+d5EIP7aX0hMbY34Y90.0;server=general01000025;cloudType=Multitenant;environment=Prod_EastAsia_000d}
+{"logTime": "1221/092324", "correlationVector":"ig6HD92wgoFTWBJiidcDf1","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: Device Info}
+{"logTime": "1221/092325", "correlationVector":"ig6HD92wgoFTWBJiidcDf1.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastAsia_000d", "server":"general01000020"}}
+{"logTime": "1221/092325", "correlationVector":"ig6HD92wgoFTWBJiidcDf1.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=ig6HD92wgoFTWBJiidcDf1.0;server=general01000020;cloudType=Multitenant;environment=Prod_EastAsia_000d}
+{"logTime": "1221/092325", "correlationVector":"1LShhYMtA0wzRs2Wimmx9P","action":"Commit Request", "result":"", "context":Item count: 1
+Contributing types: User Consents}
+{"logTime": "1221/092325", "correlationVector":"1LShhYMtA0wzRs2Wimmx9P.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"Prod_EastAsia_000d", "server":"general0100001F"}}
+{"logTime": "1221/092325", "correlationVector":"1LShhYMtA0wzRs2Wimmx9P.2","action":"Commit Response", "result":"SYNCER_OK", "context":Result: SYNCER_OK. cV=1LShhYMtA0wzRs2Wimmx9P.0;server=general0100001F;cloudType=Multitenant;environment=Prod_EastAsia_000d}
